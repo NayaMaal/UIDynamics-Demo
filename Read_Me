@@ -1,0 +1,12 @@
+UIDynamic Demo
+================
+
+This project aims to provide examples of UIDynamic behaviour of iOS7, including:
+
+- Gravity
+- Snap
+- Push
+- Collision
+- Attachment
+
+I have use very basic code to explain each behaviour at each seperate class.
